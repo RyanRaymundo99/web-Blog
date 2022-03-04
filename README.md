@@ -5,7 +5,7 @@ The comments and posts are administered by the GraphCMS engine which makes it ev
 
 ## Preview
 
-![](imagesGithub/header.png)
+![](imagesGithub/navbar.png)
 
 ![](imagesGithub/intro.png)
 
