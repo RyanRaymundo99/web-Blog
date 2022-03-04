@@ -11,6 +11,8 @@ The comments and posts are administered by the GraphCMS engine which makes it ev
 
 ![](imagesGithub/post.png)
 
+![](imagesGithub/author.png)
+
 ![](imagesGithub/comment.png)
 
 
