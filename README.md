@@ -14,3 +14,9 @@ The comments and posts are administered by the GraphCMS engine which makes it ev
 ![](imagesGithub/author.png)
 
 ![](imagesGithub/comment.png)
+
+## Features
+
+1-Fully responsive (you can open it in your smartphone, tablet or desktop)
+
+2-
