@@ -7,6 +7,12 @@ The comments and posts are administered by the GraphCMS engine which makes it ev
 
 ![](imagesGithub/header.png)
 
+![](imagesGithub/intro.png)
+
+![](imagesGithub/post.png)
+
+![](imagesGithub/comment.png)
+
 
 
 ## Deploy your own
