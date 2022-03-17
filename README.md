@@ -17,8 +17,8 @@ The comments and posts are administered by the GraphCMS engine which makes it ev
 
 ## Features
 
-1-Fully responsive (you can open it in your smartphone, tablet or desktop)
+1.complex modern design
 
-2-Fast and easy to use (with the GraphCMS engine posts can be done in less than 5 minutes and be deployed instantly)
+2.Few lines of code for each section
 
-3-comments section ready-to-go (one of the most important features of the website, took me more than an hour to finish)
+3.Super organized files (the color theme can be switched in seconds by only changing a few lines of code)
