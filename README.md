@@ -22,3 +22,7 @@ The comments and posts are administered by the GraphCMS engine which makes it ev
 2.Few lines of code for each section
 
 3.Super organized files (the color theme can be switched in seconds by only changing a few lines of code)
+
+4.Comments section fully working
+
+5.Ease adm interface
